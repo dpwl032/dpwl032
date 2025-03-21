@@ -1,9 +1,3 @@
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=✨Welcome%20to%20YeJi's%20Github✨&fontSize=50&fontAlignY=45" />
-</div>
-
-
 <h3 align="center">🔭 Tech Stack 🔭</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -52,14 +46,4 @@
     <img
       src="https://img.shields.io/badge/bowl0112@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-</div>
-
-
-<br>
-
-<h3 align="center">🧑🏻‍🌾 Farm 🌾</h3>
-<div align="center">
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/dpwl032"/>
-</a>
 </div>
